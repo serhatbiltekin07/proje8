@@ -1,0 +1,12 @@
+body {
+  background-color: #e9ecef;
+}
+.jumbotron {
+  background-image: url(img2/classic-blue-vintage-car-t5q8kzyi6qxrpqna.jpg);
+  min-height: 100vh;
+  background-size: cover;
+  font-size: large;
+}
+.ml-3 {
+  font-size: large;
+}
